@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: c0af40c5a61ea164fbd86b15e67d41be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 330
+        width: 144
+        height: 113
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b703cdb97b0d439d93f8203a121c7
+      internalID: 1246003254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 330
+        width: 156
+        height: 95
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4d5ebb00c76c147a566bd3c0ae6688
+      internalID: 805262015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 330
+        width: 148
+        height: 139
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1021dbeb8a0176b4e8f33257cc659aba
+      internalID: 271309679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 148
+        height: 132
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c5ca10e37e22741a5cba80687b4927
+      internalID: -1509703751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 161
+        width: 132
+        height: 138
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c72dc75694d34e97accd2d0154cd7
+      internalID: -1871435993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 21
+        width: 150
+        height: 129
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5501ee2135f24cb5c57e9e374d121
+      internalID: 570276393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 21
+        width: 126
+        height: 132
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34229fe72240174e85101488a192c7f
+      internalID: 1578180906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 21
+        width: 147
+        height: 129
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab623d1b99bcdce408c39d8da4a4337f
+      internalID: 1222755817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_0: 1246003254
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_1: 805262015
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_2: 271309679
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_3: -1509703751
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_4: -1871435993
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_5: 570276393
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_6: 1578180906
+      kisspng-cartoon-snake-clip-art-snake-5b0c320919b010.8118967715275258971052_7: 1222755817
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
